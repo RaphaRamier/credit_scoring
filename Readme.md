@@ -79,7 +79,7 @@ Os dados podem conter artefatos ou valores que não correspondem à realidade �
 
 Esse projeto procura avaliar e descobrir os fatores de risco para o inadimplemento na base de dados fornecida pela credora. Para esse fim, sera abordada três estratégias:
 
-- Análise esploratória;
+- Análise exploratória;
 
 - Realização de análise estatística, utilizando técnicas de análise descritiva e visualização gráfica, como, por exemplo:
 > - Gráficos de Dispersão
